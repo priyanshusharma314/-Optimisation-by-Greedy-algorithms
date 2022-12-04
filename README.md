@@ -1,1 +1,1 @@
-# -Optimisation-by-Greedy-algorithms
+# Optimisation-by-Greedy-algorithms
